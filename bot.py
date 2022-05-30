@@ -229,4 +229,4 @@ async def on_command_error(context: Context, error) -> None:
 
 
 # Run the bot with the token
-bot.run(config["token"])
+bot.run(config["OTMzMDM2NDM4MDA0NTkyNzAw.G3AgfI.kwyM_qkh1aZXC4o4Zdw-AwSAGzCA2Nbzn1Z5C0"])
